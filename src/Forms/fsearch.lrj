@@ -1,0 +1,5 @@
+{"version":1,"strings":[
+{"hash":87014037,"name":"tformsearch.chkbsearchname.caption","sourcebytes":[83,101,97,114,99,104,32,105,110,32,110,111,100,101,32,110,97,109,101],"value":"Search in node name"},
+{"hash":87017477,"name":"tformsearch.chkbsearchnote.caption","sourcebytes":[83,101,97,114,99,104,32,105,110,32,110,111,100,101,32,110,111,116,101],"value":"Search in node note"},
+{"hash":117601406,"name":"tformsearch.chkbuseregexpr.caption","sourcebytes":[85,115,101,32,114,101,103,117,108,97,114,32,101,120,112,114,101,115,115,105,111,110],"value":"Use regular expression"}
+]}

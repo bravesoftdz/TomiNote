@@ -1,0 +1,4 @@
+{"version":1,"strings":[
+{"hash":106497219,"name":"tformtextutils.caption","sourcebytes":[84,101,120,116,32,85,116,105,108,115],"value":"Text Utils"},
+{"hash":181473209,"name":"tformtextutils.chkbsearchinselection.caption","sourcebytes":[83,101,97,114,99,104,32,105,110,32,115,101,108,101,99,116,101,100,32,116,101,120,116,32,40,38,83,41],"value":"Search in selected text (&S)"}
+]}

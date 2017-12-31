@@ -1593,7 +1593,7 @@ begin
     if (AHistory <> nil) and (FLastNode <> ANode) then
     begin
       SetNodeHistory(ANode, nil);
-      AHistory.Free;
+      FMemoHistory.DestroyHistory(AHistory);
     end;
   end;
 
@@ -1605,7 +1605,7 @@ begin
     if (AHistory <> nil) and (FLastNode <> ANode) then
     begin
       SetNodeHistory(ANode, nil);
-      AHistory.Free;
+      FMemoHistory.DestroyHistory(AHistory);
     end;
   end;
 
